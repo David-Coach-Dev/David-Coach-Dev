@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cj Corp Dev</h1>
-<h3 align="center">Developer and designe. Front End And Back End. UX-UI. networking, marketing and virtual environments. hardware and software. Programación y diseño Multiplataforma. Front End Y Back End. UX - UI. networking, marketing y ambientes virtuales. Hardware y software.</h3>
+<h1 align="center">Hi 👋, I'm Cj Corp Dev - Hola 👋,Yo Soy Cj Corp Dev</h1>
+<h3 align="center">Developer and designe. FrontEnd -BackEnd.  UX - UI. Networking. Marketing. Virtual Environments. </h3>
+<h3 align="center">Programador y diseñador. FrontEnd Y Back End. UX - UI. Networking. Marketing. Ambientes Virtuales.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cjcorp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cjcorp/" height="30" width="40" /></a>
 </p>
 
