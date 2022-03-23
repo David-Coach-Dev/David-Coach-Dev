@@ -68,7 +68,8 @@ Moodle - Wordpress.</h3>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>  
 <h1></h1>
 <h4 align="center">Framework</h4>
-<p align="center"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<p align="center"> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </p>
@@ -91,12 +92,17 @@ Moodle - Wordpress.</h3>
 <h4 align="center">Game Engines</h4>
 <p align="center"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 <h1></h1>
 <h4 align="center">Other</h4>
   <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/TA4Ke3i.png" alt="windows" width="40" height="40"/> </a>  
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/s65OeO8.png" alt="apple" width="40" height="40"/> </a>
+  <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/CRVtPHd.png" alt="wordpress" width="40" height="40"/> </a> 
+  <a href="https://moodle.org/?lang=es" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/7ASE88x.png" alt="moodle" width="40" height="40"/> </a>
+</p>
   <h1></h1>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjcorpdev&show_icons=true&locale=en&layout=compact" alt="cjcorpdev" /></p>
 <h1></h1>
