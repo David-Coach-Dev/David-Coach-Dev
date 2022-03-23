@@ -7,7 +7,8 @@ UX - UI.<br>
 Networking.<br>
 Marketing.<br>
 3d Modeling.<br>
-Virtual Environments.</h3>
+Virtual Environments.<br>
+Moodle - Wordpress.</h3>
 <h1></h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
