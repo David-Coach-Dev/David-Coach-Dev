@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cj Corp Dev</h1>
 <h3 align="center">
-Programming and design.
-Frontend-Backend.
-UX-UI.
-Networking.
-Marketing.
-Virtual Environments..</h3>
+
+Programming and design.<br>
+Frontend - Backend.<br>
+UX - UI.<br>
+Networking.<br>
+Marketing.<br>
+3d Modeling.<br>
+Virtual Environments.</h3>
 <h1></h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
