@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cj Corp Dev</h1>
 <h3 align="center">
-
-Programming and design.<br>
-Frontend - Backend.<br>
-UX - UI.<br>
-Networking.<br>
-Marketing.<br>
-3d Modeling.<br>
-Virtual Environments.<br>
-Moodle - Wordpress.</h3>
+Desarrollador y programador con una amplia experiencia con la habilidad de aprender fácilmente, cualificado y resolutivo, preparado para mejorar el éxito los proyectos con metodologías Agiles de planificación, coordinación, participación y desarrollo de planes para equipos o individualmente con predisposición dinámica y proactiva, mediante codificación rápida y precisa con soporte de primera calidad, con experiencia en análisis y estructura de datos, creación de aplicaciones, optimizaciones, reducciones de errores, generación de tráfico y preparación de informes para presentar los resultados, trabajando con responsabilidad, eficiencia y eficacia para fomentar relaciones con los clientes mediante una comunicación asertiva para garantizar su fidelidad.
 <h1></h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
