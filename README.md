@@ -4,7 +4,7 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 <h1></h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/cjcorp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/cjcorpdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 <h1></h1>
 <h4 align="center">Programming Languages</h4>
