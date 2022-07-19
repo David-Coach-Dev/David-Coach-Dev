@@ -1,8 +1,5 @@
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="cplusplus"> <img src="https://i.imgur.com/1qpixbv.png" alt="cplusplus" width="95%" height="95%"/> </a>
-<h1 align="center">Hi 👋, I'm Dc Dev</h1>
-<h3 align="center">
-Desarrollador con una amplia experiencia con la habilidad de aprender fácilmente, cualificado y resolutivo, preparado para mejorar el éxito los proyectos con metodologías Ágiles de planificación, coordinación, participación y desarrollo de planes para equipos o individualmente con predisposición dinámica y proactiva, mediante codificación rápida y precisa con soporte de primera calidad, con experiencia en análisis y estructura de datos, creación de aplicaciones, optimizaciones, reducciones de errores, generación de tráfico y preparación de informes para presentar los resultados, trabajando con responsabilidad, eficiencia y eficacia para fomentar relaciones con los clientes mediante una comunicación asertiva para garantizar su fidelidad.
-<h1></h1>
+<img src="https://i.imgur.com/1qpixbv.png" alt="cplusplus" width="100%" height="0%"/><h3 align="center">
+Desarrollador con una amplia experiencia con la habilidad de aprender fácilmente, cualificado y resolutivo, preparado para mejorar el éxito los proyectos con metodologías Ágiles de planificación, coordinación, participación y desarrollo de planes para equipos o individualmente con predisposición dinámica y proactiva, mediante codificación rápida y precisa con soporte de primera calidad, con experiencia en análisis y estructura de datos, creación de aplicaciones, optimizaciones, reducciones de errores, generación de tráfico y preparación de informes para presentar los resultados, trabajando con responsabilidad, eficiencia y eficacia para fomentar relaciones con los clientes mediante una comunicación asertiva para garantizar su fidelidad.</h3></ing>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/cjcorpdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
