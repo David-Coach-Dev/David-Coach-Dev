@@ -94,14 +94,14 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjcorpdev&show_icons=true&locale=en&layout=compact" alt="cjcorpdev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DcDevRep&show_icons=true&locale=en&layout=compact" alt="cjcorpdev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjcorpdev&show_icons=true&locale=en" alt="cjcorpdev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DcDevRep&show_icons=true&locale=en" alt="cjcorpdev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cjcorpdev&" alt="cjcorpdev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DcDevRep&" alt="cjcorpdev" />
 </p>
 <h1></h1>
