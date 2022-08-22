@@ -1,4 +1,7 @@
-<img src="https://i.imgur.com/1qpixbv.png" alt="cplusplus" width="100%" height="0%"/><h3 align="center">
+
+  <img style=" position: absolute; top: 30px;  left: 30px;" src="https://i.imgur.com/1qpixbv.png" alt="cplusplus" />
+  <img style="  position: relative; top: 0; left: 0;" src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF000097&center=true&vCenter=true&width=1024&height=100&lines=Hola+%F0%9F%91%8B+soy+Dc+Dev;Backend+-+Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="DcDevRep" />
+  <h3 align="center">
 Desarrollador con una amplia experiencia con la habilidad de aprender fácilmente, cualificado y resolutivo, preparado para mejorar el éxito los proyectos con metodologías Ágiles de planificación, coordinación, participación y desarrollo de planes para equipos o individualmente con predisposición dinámica y proactiva, mediante codificación rápida y precisa con soporte de primera calidad, con experiencia en análisis y estructura de datos, creación de aplicaciones, optimizaciones, reducciones de errores, generación de tráfico y preparación de informes para presentar los resultados, trabajando con responsabilidad, eficiencia y eficacia para fomentar relaciones con los clientes mediante una comunicación asertiva para garantizar su fidelidad.</h3></ing>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -110,8 +113,22 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=darkhub&locale=es&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
 </p>
 <h1></h1>
-
-
+<p align="center">
+  <img src="https://metrics.lecoq.io/DcDevRep?template=classic&locale=es" alt="DcDevRep" />
+</p>
+<h1></h1>
+<p align="center">
+  <img src="https://stats.justsong.cn/api/github?username=DcDevRep&theme=dark&locale=es" alt="DcDevRep" />
+</p>
+<h1></h1>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=DcDevRep&&theme=xcode&custom_title=Dc%20Dev%20Rep&hide_border=true" alt="DcDevRep" />
+</p>
+<h1></h1>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=DcDevRep.visitor-badge" alt="DcDevRep" />
+</p>
+<h1></h1>
