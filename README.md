@@ -1,14 +1,18 @@
-
-  <img style=" position: absolute; top: 30px;  left: 30px;" src="https://i.imgur.com/1qpixbv.png" alt="cplusplus" />
-  <img style="  position: relative; top: 0; left: 0;" src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF000097&center=true&vCenter=true&width=1024&height=100&lines=Hola+%F0%9F%91%8B+soy+Dc+Dev;Backend+-+Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="DcDevRep" />
-  <h3 align="center">
-Desarrollador con una amplia experiencia con la habilidad de aprender fácilmente, cualificado y resolutivo, preparado para mejorar el éxito los proyectos con metodologías Ágiles de planificación, coordinación, participación y desarrollo de planes para equipos o individualmente con predisposición dinámica y proactiva, mediante codificación rápida y precisa con soporte de primera calidad, con experiencia en análisis y estructura de datos, creación de aplicaciones, optimizaciones, reducciones de errores, generación de tráfico y preparación de informes para presentar los resultados, trabajando con responsabilidad, eficiencia y eficacia para fomentar relaciones con los clientes mediante una comunicación asertiva para garantizar su fidelidad.</h3></ing>
-<h3 align="center">Connect with me:</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=Hola+%F0%9F%91%8B+soy+Dc+Dev;Backend+-+Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="DcDevRep" />
+<h1></h1>
+<h3 align="center">
+Desarrollador con una amplia experiencia con la habilidad de aprender fácilmente, cualificado y resolutivo, preparado para mejorar el éxito los proyectos con metodologías Ágiles de planificación, coordinación, participación y desarrollo de planes para equipos o individualmente con predisposición dinámica y proactiva, mediante codificación rápida y precisa con soporte de primera calidad, con experiencia en análisis y estructura de datos, creación de aplicaciones, optimizaciones, reducciones de errores, generación de tráfico y preparación de informes para presentar los resultados, trabajando con responsabilidad, eficiencia y eficacia para fomentar relaciones con los clientes mediante una comunicación asertiva para garantizar su fidelidad.</h3>
+<h1></h1>
+<h3 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%A7++Connect+with+me" alt="Connect with me" />
+</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/cjcorpdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 <h1></h1>
-<h4 align="center">Programming Languages</h4>
+<h4 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%AC+Programming+Languages" alt="Programming Languages" />
+</h4>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="cplusplus"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -17,7 +21,9 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 <h1></h1>
-<h4 align="center">Frontend Development</h4>
+<h4 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%9F+Frontend+Development" alt="Frontend Development" />
+</h4>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> </a>
@@ -35,12 +41,16 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
 </p>
 <h1></h1>
-<h4 align="center">Mobile App Development</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%B1Mobile+App+Development" alt="Mobile App Development" />
+</h4>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 <h1></h1>
-<h4 align="center">Database</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%9B%A2%EF%B8%8FDatabase" alt="Database" />
+</h4>
 <p align="center">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" alt="mariadb" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -50,24 +60,32 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 <h1></h1>
-<h4 align="center">Devops</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%8E%9B%EF%B8%8F+Devops" alt="Devops" />
+</h4>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Zd9BijD.png" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 <h1></h1>
-<h4 align="center">Backend as a Service(BaaS)</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%B0+Backend+as+a+Service(BaaS)" alt="Backend as a Service(BaaS)" />
+  </h4>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 <h1></h1>
-<h4 align="center">Framework</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%92%BFFramework" alt="Framework" />
+</h4>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </p>
 <h1></h1>
-<h4 align="center">FTesting</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8ETesting" alt="Testing" />
+</h4>
 <p align="center">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?w=364&ssl=1" alt="cypress" width="40" height="40"/> </a>
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
@@ -75,7 +93,9 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 </p>
 <h1></h1>
-<h4 align="center">Software</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%92%BD+Software" alt="Software" />
+</h4>
 <p align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
@@ -86,7 +106,9 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <a href="https://insomnia.rest/" target="_blank" rel="insomnia"> <img src="https://i.imgur.com/O7Tglll.png" alt="isomnia" width="40" height="40"/> </a>
 </p>
 <h1></h1>
-<h4 align="center">Other</h4>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%9A+Other" alt="Other" />
+</h4>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -96,32 +118,39 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <a href="https://moodle.org/?lang=es" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/7ASE88x.png" alt="moodle" width="40" height="40"/> </a>
 </p>
 <h1></h1>
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8A+Rep%C2%B4s" alt="Rep´s" />
+</h4>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DcDevRep&show_icons=true&theme=dark&locale=es&layout=compact" alt="DcDevRep" />
+  <img src="https://i.imgur.com/y3Kqlv3.png" alt="Tarjeta" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DcDevRep&show_icons=true&theme=dark&locale=es" alt="DcDevRep" />
+  <img src="https://komarev.com/ghpvc/?username=dcdevrep&label=DcDevRep&color=ff0000&style=flat-square" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DcDevRep&theme=dark&locale=es" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcdevrep&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DcDev&theme=dark&locale=es" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcdevrep&show_icons=true&theme=dark&title_color=fa0000&text_color=ffffff&locale=en" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=darkhub&locale=es&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DcDevRep&fire=FFFC00&stroke=FF0000&background=000000&border=FF0000&ring=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03FF00&sideLabels=1F00FF&dates=FFFFFF" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://metrics.lecoq.io/DcDevRep?template=classic&locale=es" alt="DcDevRep" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DcDev&theme=dark" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://stats.justsong.cn/api/github?username=DcDevRep&theme=dark&locale=es" alt="DcDevRep" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
+</p>
+<h1></h1>
+<p align="center">
+  <img src="https://metrics.lecoq.io/DcDevRep?template=classic" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
@@ -129,6 +158,6 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=DcDevRep.visitor-badge" alt="DcDevRep" />
+  <img src="" alt="DcDevRep" />
 </p>
-<h1></h1>
+
