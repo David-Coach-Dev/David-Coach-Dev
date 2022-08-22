@@ -94,14 +94,24 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DcDevRep&show_icons=true&locale=en&layout=compact" alt="cjcorpdev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DcDevRep&show_icons=true&theme=dracula&locale=es&layout=compact" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DcDevRep&show_icons=true&locale=en" alt="cjcorpdev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DcDevRep&show_icons=true&theme=dracula&locale=es" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DcDevRep&" alt="cjcorpdev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DcDevRep&theme=dracula&locale=es" alt="DcDevRep" />
 </p>
 <h1></h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DcDev&theme=dracula&locale=es" alt="DcDevRep" />
+</p>
+<h1></h1>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=dracula&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
+</p>
+<h1></h1>
+
+
