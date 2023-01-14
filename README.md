@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=Hi+%F0%9F%91%8B,+I´m+Dc+Dev;Backend+-+Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="DcDevRep" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=Hi+%F0%9F%91%8B,+I´m+Dc+Dev;Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="DcDevRep" />
 <h1></h1>
 <h3 align="center">
 Desarrollador con una amplia experiencia con la habilidad de aprender fácilmente, cualificado y resolutivo, preparado para mejorar el éxito los proyectos con metodologías Ágiles de planificación, coordinación, participación y desarrollo de planes para equipos o individualmente con predisposición dinámica y proactiva, mediante codificación rápida y precisa con soporte de primera calidad, con experiencia en análisis y estructura de datos, creación de aplicaciones, optimizaciones, reducciones de errores, generación de tráfico y preparación de informes para presentar los resultados, trabajando con responsabilidad, eficiencia y eficacia para fomentar relaciones con los clientes mediante una comunicación asertiva para garantizar su fidelidad.</h3>
@@ -122,7 +122,9 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8A+Rep%C2%B4s" alt="Rep´s" />
 </h4>
 <p align="center">
-  <img src="https://i.imgur.com/y3Kqlv3.png" alt="Tarjeta" />
+  <a href="https://dcdev.tk" target="_blank" rel="Dc Dev Web">   
+  <img src="https://i.imgur.com/yysg2eN.png" alt="Tarjeta" />
+     </a>
 </p>
 <h1></h1>
 <p align="center">
