@@ -144,7 +144,7 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DcDev&theme=dark" alt="DcDevRep" />
+  <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b/project/59b054d5-2558-4d76-a98a-c6c468b48aff.svg" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
