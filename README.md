@@ -121,22 +121,16 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 <h4 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8A+Rep%C2%B4s" alt="Rep´s" />
 </h4>
-<p align="center">
-  <a href="https://dcdev.tk" target="_blank" rel="Dc Dev Web">   
-  <img src="https://i.imgur.com/yysg2eN.png" alt="Tarjeta" />
-     </a>
-</p>
-<h1></h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dcdevrep&label=DcDevRep&color=ff0000&style=flat-square" alt="DcDevRep" />
+  <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcdevrep&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact" alt="DcDevRep" />
-</p>
-<h1></h1>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcdevrep&show_icons=true&theme=dark&title_color=fa0000&text_color=ffffff&locale=en" alt="DcDevRep" />
+  <a href="https://dcdev.tk" target="_blank" rel="Dc Dev Web">   
+     <img src="https://i.imgur.com/yysg2eN.png" alt="Tarjeta" />
+  </a>
 </p>
 <h1></h1>
 <p align="center">
@@ -144,17 +138,27 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://wakatime.com/badge/github/DcDevRep/Api-Deliveries.svg" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcdevrep&show_icons=true&theme=dark&title_color=fa0000&text_color=ffffff&locale=en" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DcDev&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://metrics.lecoq.io/DcDevRep?template=classic" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcdevrep&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="DcDevRep" />
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://wakatime.com/share/@DcDev/5933c5a0-e1db-48a4-b65d-f9102192b4f5.svg" alt="DcDevRep" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
 </p>
+<h1></h1>
+<p align="center">
+  <img align="center" src="https://metrics.lecoq.io/DcDevRep?template=classic" alt="DcDevRep" />
+</p>
+<h1></h1>
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@DcDev/b1efd845-bf07-4249-9709-0275818eed03.svg" width="40%" alt="DcDevRep" />
+  <img align="center" src="https://wakatime.com/share/@DcDev/da283106-320d-4351-b933-c96c303035ad.svg" width="40%" alt="DcDevRep" />    
+</p>
+<h1></h1>
