@@ -156,5 +156,5 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=DcDevRep&&theme=xcode&custom_title=Dc%20Dev%20Rep&hide_border=true" alt="DcDevRep" />
+  <img src="https://wakatime.com/share/@DcDev/5933c5a0-e1db-48a4-b65d-f9102192b4f5.svg" alt="DcDevRep" />
 </p>
