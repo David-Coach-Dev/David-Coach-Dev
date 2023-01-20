@@ -166,6 +166,6 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-<video autoplay controls src="video/gitthugsikeline.mp4"></video>
+    <img align="center" src="https://i.imgur.com/bJxy4Xn.png" alt="DcDevRep" />     
 </p>
 <h1></h1>
