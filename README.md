@@ -165,3 +165,7 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <img align="center" src="https://wakatime.com/share/@DcDev/549692ff-2608-4d7c-bf6b-f6f7b5e24cdc.svg" alt="DcDevRep" />    
 </p>
 <h1></h1>
+<p align="center">
+<video autoplay controls src="video/gitthugsikeline.mp4"></video>
+</p>
+<h1></h1>
