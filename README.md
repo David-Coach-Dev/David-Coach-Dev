@@ -161,4 +161,7 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
   <img align="center" src="https://wakatime.com/share/@DcDev/b1efd845-bf07-4249-9709-0275818eed03.svg" width="40%" alt="DcDevRep" />
   <img align="center" src="https://wakatime.com/share/@DcDev/da283106-320d-4351-b933-c96c303035ad.svg" width="40%" alt="DcDevRep" />    
 </p>
+<p align="center" style=" background-color:">
+  <img align="center" src="https://wakatime.com/share/@DcDev/549692ff-2608-4d7c-bf6b-f6f7b5e24cdc.svg" alt="DcDevRep" />    
+</p>
 <h1></h1>
