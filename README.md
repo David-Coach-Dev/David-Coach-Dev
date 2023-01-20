@@ -166,6 +166,6 @@ Desarrollador con una amplia experiencia con la habilidad de aprender fácilment
 </p>
 <h1></h1>
 <p align="center">
-    <img align="center" src="https://i.imgur.com/bJxy4Xn.png" alt="DcDevRep" />     
+    <img align="center" src="https://github.com/dcdevrep/dcdevrep/blob/main/gif/skyline_github_2023.gif?raw=true" alt="DcDevRep" />     
 </p>
 <h1></h1>
