@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="DcDevRep" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB." alt="DcDevRep" />
 <h1></h1>
 <h3 align="center">
 Desarrollador web y de software.</h3>
