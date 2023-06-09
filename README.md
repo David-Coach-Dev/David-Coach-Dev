@@ -115,8 +115,12 @@ Desarrollador web y de software.</h3>
 <h1></h1>
 <p align="center">
   <a href="https://dcdev.tk" target="_blank" rel="Dc Dev Web">   
-     <img src="https://i.imgur.com/yysg2eN.png" alt="Tarjeta" />
+     <img src="https://i.imgur.com/yysg2eN.png" alt="Tarjeta" />       
   </a>
+</p>
+<h1></h1>
+<p align="center">
+  <a href="https://app.daily.dev/dcdev"><img src="https://api.daily.dev/devcards/e23c14e4f4404c7da21e0997405ce7a2.png?r=ou8" width="400" alt="Dc   Dev's Dev Card"/></a>
 </p>
 <h1></h1>
 <p align="center">
