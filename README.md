@@ -1,7 +1,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB." alt="DcDevRep" />
 <h1></h1>
 <h3 align="center">
-Desarrollador web y de software.</h3>
+<p>
+     Soy un desarrollador con experiencia en los stack MERN, PERN, WAMP, WAPP y habilidades en HTML, CSS, JavaScript, TypeScript, React, Next, Node, Nest, Express y PHP.
+</p>
+<p>
+     También tengo experiencia en la creación de API's Rest Full Dinámicas con JWT, documentación con Swagger, bases de datos SQL y NoSQL, y en el uso de herramientas como Docker, Git, Figma, Mirro, Trello, Postman e Insomnia.
+</p>
+<p>
+     Además, estoy familiarizado con metodologías ágiles, Scrum, arquitectura de software y UI/UX.
+<p> 
+     Tengo experiencia en despliegues en Heroku, Vercel, Netlify y AWS.
+</p>
+</p>
+<p>
+     Si estás buscando un desarrollador con estas habilidades y conocimientos, estoy entusiasmado por formar parte de nuevos proyectos y contribuir al éxito de tu equipo de forma remota.
+</p>
+</h3>
 <h1></h1>
 <h3 align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%A7++Connect+with+me" alt="Connect with me" />
