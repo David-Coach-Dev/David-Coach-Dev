@@ -126,6 +126,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dcdevrep&label=DcDevRep&color=ff0000&style=flat-square" alt="DcDevRep" />
   <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
+  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18102%26project%3D%26in%3D0">
 </p>
 <h1></h1>
 <p align="center">
