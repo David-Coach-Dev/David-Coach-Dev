@@ -137,8 +137,7 @@
 </p>
 <h1></h1>
 <p align="center">
-  <a href="https://app.daily.dev/dcdev"><img src="https://api.daily.dev/devcards/e23c14e4f4404c7da21e0997405ce7a2.png?r=ou8" width="400" alt="Dc   Dev's Dev Card"/></a>
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64ab206514678473bb5cbdc3?variant=dark" width="400" alt="roadmap.sh"/></a>
+  <a href="https://app.daily.dev/dcdev"><img src="https://api.daily.dev/devcards/e23c14e4f4404c7da21e0997405ce7a2.png?r=ou8" width="400" alt="Dc Dev's Dev Card"/></a>
 </p>
 <h1></h1>
 <p align="center">
