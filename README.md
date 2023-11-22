@@ -5,19 +5,19 @@
 <h1></h1>
 <h3 align="center">
 <p>
-     Soy un desarrollador con experiencia en los stack MERN, PERN, WAMP, WAPP y habilidades en HTML, CSS, JavaScript, TypeScript, React, Next, Node, Nest, Express y PHP.
+        Hello! I'm a developer who has worked with a variety of technologies and stacks, such as MERN, PERN, WAMP, and WAPP. I've dabbled with HTML, CSS, JavaScript, TypeScript, React, Next, Node, Nest, Express, and PHP. 
 </p>
 <p>
-     También tengo experiencia en la creación de API's Rest Full Dinámicas con JWT, documentación con Swagger, bases de datos SQL y NoSQL, y en el uso de herramientas como Docker, Git, Figma, Mirro, Trello, Postman e Insomnia.
+     I've created dynamic Rest Full APIs with JWT, documented with Swagger, and managed SQL and NoSQL databases. I've also had the opportunity to use cool tools like Docker, Git, Figma, Mirro, Trello, Postman, and Insomnia. 
 </p>
 <p>
-     Además, estoy familiarizado con metodologías ágiles, Scrum, arquitectura de software y UI/UX.
+     I'm familiar with agile methodologies and Scrum, and I have a basic understanding of software architecture and UI/UX. I've deployed projects on Heroku, Vercel, Netlify, and AWS. 
 <p> 
-     Tengo experiencia en despliegues en Heroku, Vercel, Netlify y AWS.
+     Although I don't consider myself an expert, I'm full of enthusiasm and always ready to learn and grow. If you're looking for a dedicated developer, 
 </p>
 </p>
 <p>
-     Si estás buscando un desarrollador con estas habilidades y conocimientos, estoy entusiasmado por formar parte de nuevos proyectos y contribuir al éxito de tu equipo de forma remota.
+     I'd be thrilled to explore opportunities to contribute to your projects remotely. Let's talk!
 </p>
 </h3>
 <h1></h1>
