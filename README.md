@@ -1,7 +1,7 @@
 <p align="center">
  <img align="center" src="https://i.imgur.com/974cKFd.png" alt="banner" />
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Coach+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="DcDevRep" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Coach+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="David-Coach-Dev" />
 <h1></h1>
 <h3 align="center">
 <p>
@@ -127,14 +127,14 @@
 </h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dcdevrep&label=DcDevRep&color=ff0000&style=flat-square" alt="DcDevRep" />
+  <img src="https://komarev.com/ghpvc/?username=David-Coach-Dev&label=DcDevRep&color=ff0000&style=flat-square" alt="DcDevRep" />
   <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18102%26project%3D%26in%3D0">
 </p>
 
 <h1></h1>
 <p align="center">
-  <a href="https://dcdev.tk" target="_blank" rel="Dc Dev Web">   
+  <a href="https://davidcoach.dev" target="_blank" rel="David-Coach-Dev web">   
      <img src="https://i.imgur.com/yysg2eN.png" alt="Tarjeta" />       
   </a>
 </p>
@@ -148,38 +148,38 @@
 
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DcDevRep&fire=FFFC00&stroke=FF0000&background=000000&border=FF0000&ring=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03FF00&sideLabels=1F00FF&dates=FFFFFF" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=David-Coach-Dev&fire=FFFC00&stroke=FF0000&background=000000&border=FF0000&ring=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03FF00&sideLabels=1F00FF&dates=FFFFFF" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcdevrep&show_icons=true&theme=dark&title_color=fa0000&text_color=ffffff&locale=en" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Coach-Dev&show_icons=true&theme=dark&title_color=fa0000&text_color=ffffff&locale=en" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DcDev&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DcDev&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcdevrep&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="DcDevRep" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Coach-Dev&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=DcDevRep&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="DcDevRep" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=David-Coach-Dev&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://metrics.lecoq.io/DcDevRep?template=classic" alt="DcDevRep" />
+  <img align="center" src="https://metrics.lecoq.io/David-Coach-Dev?template=classic" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://wakatime.com/share/@DcDev/b1efd845-bf07-4249-9709-0275818eed03.svg" width="40%" alt="DcDevRep" />
-  <img align="center" src="https://wakatime.com/share/@DcDev/da283106-320d-4351-b933-c96c303035ad.svg" width="40%" alt="DcDevRep" />    
+  <img align="center" src="https://wakatime.com/share/@DcDev/b1efd845-bf07-4249-9709-0275818eed03.svg" width="40%" alt="David-Coach-Dev" />
+  <img align="center" src="https://wakatime.com/share/@DcDev/da283106-320d-4351-b933-c96c303035ad.svg" width="40%" alt="David-Coach-Dev" />    
 </p>
 <p align="center">
-  <img align="center" src="https://wakatime.com/share/@DcDev/549692ff-2608-4d7c-bf6b-f6f7b5e24cdc.svg" alt="DcDevRep" />    
+  <img align="center" src="https://wakatime.com/share/@DcDev/549692ff-2608-4d7c-bf6b-f6f7b5e24cdc.svg" alt="David-Coach-Dev" />    
 </p>
 <h1></h1>
 <p align="center">
-    <img align="center" src="https://github.com/dcdevrep/dcdevrep/blob/main/gif/skyline_github_2023.gif?raw=true" alt="DcDevRep" />     
+    <img align="center" src="https://github.com/dcdevrep/dcdevrep/blob/main/gif/skyline_github_2023.gif?raw=true" alt="David-Coach-Dev" />     
 </p>
 <h1></h1>
