@@ -1,7 +1,7 @@
 <p align="center">
  <img align="center" src="https://i.imgur.com/974cKFd.png" alt="banner" />
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Coach+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="David-Coach-Dev" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=80&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&height=100&lines=+Hi+%F0%9F%91%8B,+I´m+David;Coach+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="David-Coach-Dev" />
 <h1></h1>
 <h3 align="center">
 <p>
@@ -22,14 +22,14 @@
 </h3>
 <h1></h1>
 <h3 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%A7++Connect+with+me" alt="Connect with me" />
+     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%A7++Connect+with+me" alt="Connect with me" />
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/davidcoachdev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 <h1></h1>
 <h4 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%AC+Programming+Languages" alt="Programming Languages" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%AC+Programming+Languages" alt="Programming Languages" />
 </h4>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -38,7 +38,7 @@
 </p>
 <h1></h1>
 <h4 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%9F+Frontend+Development" alt="Frontend Development" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%93%9F+Frontend+Development" alt="Frontend Development" />
 </h4>
 <p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> </a>
@@ -55,14 +55,14 @@
 </p>
 <h1></h1>
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%B1Mobile+App+Development" alt="Mobile App Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%93%B1Mobile+App+Development" alt="Mobile App Development" />
 </h4>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 <h1></h1>
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%9B%A2%EF%B8%8FDatabase" alt="Database" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%9B%A2%EF%B8%8FDatabase" alt="Database" />
 </h4>
 <p align="center">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" alt="mariadb" width="40" height="40"/> </a>
@@ -74,21 +74,21 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 <h1></h1>
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%8E%9B%EF%B8%8F+Devops" alt="Devops" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%8E%9B%EF%B8%8F+Devops" alt="Devops" />
 </h4>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Zd9BijD.png" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 <h1></h1>
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%B0+Backend+as+a+Service(BaaS)" alt="Backend as a Service(BaaS)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%A7%B0+Backend+as+a+Service(BaaS)" alt="Backend as a Service(BaaS)" />
   </h4>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 <h1></h1>
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8ETesting" alt="Testing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8ETesting" alt="Testing" />
 </h4>
 <p align="center">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?w=364&ssl=1" alt="cypress" width="40" height="40"/> </a>
@@ -98,7 +98,7 @@
 </p>
 <h1></h1>
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%92%BD+Software" alt="Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%92%BD+Software" alt="Software" />
 </h4>
 <p align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
@@ -111,7 +111,7 @@
 </p>
 <h1></h1>
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%9A+Other" alt="Other" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%93%9A+Other" alt="Other" />
 </h4>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -122,23 +122,30 @@
   <a href="https://moodle.org/?lang=es" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/7ASE88x.png" alt="moodle" width="40" height="40"/> </a>
 </p>
 <h1></h1>
+
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8A+Rep%C2%B4s" alt="Rep´s" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=🪪+Card+info" alt="Rep´s" />
 </h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=David-Coach-Dev&label=DcDevRep&color=ff0000&style=flat-square" alt="DcDevRep" />
+  <a href="https://davidcoach.dev" target="_blank" rel="David-Coach-Dev web">   
+     <img src="https://i.imgur.com/8PAEuWj.png" alt="Tarjeta" />       
+  </a>
+</p>
+<h1></h1>
+
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=%F0%9F%93%8A+Rep%C2%B4s" alt="Rep´s" />
+</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-Coach-Dev&label=DcDevRep&color=9b0706&style=flat-square" alt="DcDevRep" />
   <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18102%26project%3D%26in%3D0">
 </p>
 
 <h1></h1>
-<p align="center">
-  <a href="https://davidcoach.dev" target="_blank" rel="David-Coach-Dev web">   
-     <img src="https://i.imgur.com/yysg2eN.png" alt="Tarjeta" />       
-  </a>
-</p>
-<h1></h1>
+
 <p align="center">
   <a href="https://app.daily.dev/dcdev"><img src="https://api.daily.dev/devcards/e23c14e4f4404c7da21e0997405ce7a2.png?r=ou8" width="400" alt="Dc Dev's Dev Card"/></a>
 </p>
@@ -148,7 +155,7 @@
 
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=David-Coach-Dev&fire=FFFC00&stroke=FF0000&background=000000&border=FF0000&ring=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03FF00&sideLabels=1F00FF&dates=FFFFFF" alt="David-Coach-Dev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=David-Coach-Dev&fire=FFFC00&stroke=9b0706&background=000000&border=9b0706&ring=9b0706&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03FF00&sideLabels=1F00FF&dates=FFFFFF" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
@@ -156,11 +163,11 @@
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DcDev&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DcDev&show_icons=true&theme=dark&title_color=9b0706&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Coach-Dev&show_icons=true&theme=dark&title_color=ff0000&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Coach-Dev&show_icons=true&theme=dark&title_color=9b0706&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
 </p>
 <h1></h1>
 <p align="center">
