@@ -168,10 +168,6 @@
 </p>
 <h1></h1>
 <p align="center">
-  <img align="center" src="https://metrics.lecoq.io/David-Coach-Dev?template=classic" alt="David-Coach-Dev" />
-</p>
-<h1></h1>
-<p align="center">
   <img align="center" src="https://wakatime.com/share/@DcDev/b1efd845-bf07-4249-9709-0275818eed03.svg" width="40%" alt="David-Coach-Dev" />
   <img align="center" src="https://wakatime.com/share/@DcDev/da283106-320d-4351-b933-c96c303035ad.svg" width="40%" alt="David-Coach-Dev" />    
 </p>
