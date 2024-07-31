@@ -122,16 +122,7 @@
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/CRVtPHd.png" alt="wordpress" width="40" height="40"/> </a>
   <a href="https://moodle.org/?lang=es" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/7ASE88x.png" alt="moodle" width="40" height="40"/> </a>
 </p>
-<h1></h1>
 
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=🪪+Card+info" alt="Rep´s" />
-</h4>
-<p align="center">
-  <a href="https://davidcoach.dev" target="_blank" rel="David-Coach-Dev web">   
-     <img src="https://i.imgur.com/8PAEuWj.png" alt="Tarjeta" />       
-  </a>
-</p>
 <h1></h1>
 
 <h4 align="center">
@@ -142,8 +133,18 @@
   <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18102%26project%3D%26in%3D0">
 </p>
+
 <h1></h1>
 
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=9b0706&center=true&vCenter=true&width=1024&lines=🪪+Card+info" alt="Card Info" />
+</h4>
+<p align="center">
+  <a href="https://davidcoach.dev" target="_blank" rel="David-Coach-Dev web">   
+     <img src="https://i.imgur.com/8PAEuWj.png" alt="Tarjeta" />       
+  </a>
+</p>
+<h1></h1>
 <p align="center">
   <a href="https://app.daily.dev/dcdev"><img src="https://api.daily.dev/devcards/e23c14e4f4404c7da21e0997405ce7a2.png?r=ou8" width="400" alt="Dc Dev's Dev Card"/></a>
 </p>
