@@ -141,7 +141,7 @@
 </h4>
 <p align="center">
   <a href="https://davidcoach.dev" target="_blank" rel="David-Coach-Dev web">   
-     <img src="https://i.imgur.com/8PAEuWj.png" alt="Tarjeta" />       
+     <img src="https://i.imgur.com/RlcFnuE.png" alt="Tarjeta" />       
   </a>
 </p>
 <h1></h1>
