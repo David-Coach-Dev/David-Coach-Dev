@@ -132,6 +132,7 @@
   <img src="https://komarev.com/ghpvc/?username=David-Coach-Dev&label=DcDevRep&color=9b0706&style=flat-square" alt="DcDevRep" />
   <img src="https://wakatime.com/badge/user/3022cf93-4b1d-4483-9bdb-59b82b3a588b.svg" alt="dcdevwaka" />
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18102%26project%3D%26in%3D0">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=David-Coach-Dev.David-Coach-Dev&right_color=darkred"  />
 </p>
 
 <h1></h1>
@@ -144,6 +145,11 @@
      <img src="https://i.imgur.com/MQuwzbm.png" alt="Tarjeta" />       
   </a>
 </p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/David-Coach-Dev/count.svg?"  />
+<p>
+
+###
 <h1></h1>
 <p align="center">
   <a href="https://app.daily.dev/dcdev"><img src="https://api.daily.dev/devcards/e23c14e4f4404c7da21e0997405ce7a2.png?r=ou8" width="400" alt="Dc Dev's Dev Card"/></a>
@@ -168,6 +174,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DcDev&show_icons=true&theme=dark&title_color=9b0706&text_color=ededed&locale=en&layout=compact&langs_count=8" alt="David-Coach-Dev" />
 </p>
+
 <h1></h1>
 
 <p align="center">
