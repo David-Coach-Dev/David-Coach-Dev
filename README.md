@@ -193,3 +193,5 @@
     <img align="center" src="https://github.com/dcdevrep/dcdevrep/blob/main/gif/skyline_github_2023.gif?raw=true" alt="David-Coach-Dev" />     
 </p>
 <h1></h1>
+<img src="https://raw.githubusercontent.com/David-Coach-Dev/David-Coach-Dev/output/snake.svg" alt="Snake animation" />
+<h1></h1>
