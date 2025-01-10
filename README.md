@@ -182,8 +182,8 @@
   <img align="center" src="https://wakatime.com/share/@DcDev/b1efd845-bf07-4249-9709-0275818eed03.svg" width="40%" alt="David-Coach-Dev" />
   <img align="center" src="https://wakatime.com/share/@DcDev/da283106-320d-4351-b933-c96c303035ad.svg" width="40%" alt="David-Coach-Dev" />
   <img align="center" src="https://wakatime.com/share/@DcDev/e157b2ec-bfed-423c-95d4-e12eba8defa1.svg" width="40%" alt="David-Coach-Dev" />
+  <img src="https://wakatime.com/share/@DcDev/9bfd8612-300b-4c55-ac37-3ec5251ab2cb.svg" width="40%" alt="David-Coach-Dev" />
 </p>
-<figure><embed src="https://wakatime.com/share/@DcDev/9bfd8612-300b-4c55-ac37-3ec5251ab2cb.svg"></embed></figure>
 <p align="center">
   <img align="center" src="https://wakatime.com/share/@DcDev/549692ff-2608-4d7c-bf6b-f6f7b5e24cdc.svg" alt="David-Coach-Dev" />    
 </p>
