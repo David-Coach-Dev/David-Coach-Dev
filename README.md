@@ -5,9 +5,8 @@
 <h1></h1>
 
 <h3 align="center">
-<p>🌐 Passionate about building scalable and efficient web solutions. 🧑‍🏫 Developer Coach and 💻 Full Stack Developer, combining ⚙️ DevOps, 🎨 UX/UI, and 📊 Agile/Scrum methodologies. 🚀 Seeking challenging projects and 100% remote opportunities.</p>
 
-<p>👨‍💻 Systems Engineer, Full Stack Developer, and Developer Coach passionate about building scalable and efficient solutions. I aim to advance toward Software Architect, combining development, DevOps, and leadership skills to design robust and innovative systems.</p>
+ <p>👨‍💻 Systems Engineer, Full Stack Developer, and Developer Coach passionate about building scalable and efficient solutions. I aim to advance toward Software Architect, combining development, DevOps, and leadership skills to design robust and innovative systems.</p>
 
 <p>🧑‍🏫 I help developers improve their technical skills (Front-end, Back-end, Databases, DevOps) and soft skills (communication, teamwork, problem-solving), promoting best practices and delivering high-value results.</p>
 
