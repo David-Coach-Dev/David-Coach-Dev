@@ -5,11 +5,21 @@
 <h1></h1>
 
 <h3 align="center">
-<p> Hello! I'm a developer who has worked with a variety of technologies and stacks, such as MERN, PERN, WAMP, and WAPP. I've dabbled with HTML, CSS, JavaScript, TypeScript, React, Next, Node, Nest, Express, and PHP. </p>
-<p> I've created dynamic Rest Full APIs with JWT, documented with Swagger, and managed SQL and NoSQL databases. I've also had the opportunity to use cool tools like Docker, Git, Figma, Mirro, Trello, Postman, and Insomnia.  </p>
-<p> I'm familiar with agile methodologies and Scrum, and I have a basic understanding of software architecture and UI/UX. I've deployed projects on Heroku, Vercel, Netlify, and AWS. </p>
-<p> Although I don't consider myself an expert, I'm full of enthusiasm and always ready to learn and grow. If you're looking for a dedicated developer,  </p>
-<p> I'd be thrilled to explore opportunities to contribute to your projects remotely. Let's talk! </p>
+<p>🌐 Passionate about building scalable and efficient web solutions. 🧑‍🏫 Developer Coach and 💻 Full Stack Developer, combining ⚙️ DevOps, 🎨 UX/UI, and 📊 Agile/Scrum methodologies. 🚀 Seeking challenging projects and 100% remote opportunities.</p>
+
+<p>👨‍💻 Systems Engineer, Full Stack Developer, and Developer Coach passionate about building scalable and efficient solutions. I aim to advance toward Software Architect, combining development, DevOps, and leadership skills to design robust and innovative systems.</p>
+
+<p>🧑‍🏫 I help developers improve their technical skills (Front-end, Back-end, Databases, DevOps) and soft skills (communication, teamwork, problem-solving), promoting best practices and delivering high-value results.</p>
+
+<p>💻 Experienced in HTML, CSS, JavaScript, TypeScript, React, and Next.js, with technical documentation in Storybook and modern UI/UX best practices. On the back-end, skilled in Node.js, PHP, and Go, developing RESTful APIs documented with Swagger, tested with Postman and Insomnia, and using HTTP protocols.</p>
+
+<p>🗄️ Managing and optimizing SQL and NoSQL databases: PostgreSQL, MariaDB, MySQL, MongoDB, and Redis, focusing on performance and scalability.</p>
+
+<p>🎨 Designing interfaces with Figma and Miro, creating UML diagrams and interactive prototypes to optimize user experience and streamline development.</p>
+
+<p>🚀 Experience in DevOps with Docker, Git, and CI/CD using GitHub Actions; deployments on AWS, Vercel, Netlify, and Heroku. Project management with Trello, Jira, and GitHub Projects under Agile/Scrum methodologies.</p>
+
+<p>🌍 Open to 100% remote opportunities to be part of innovative projects, tackle technical challenges, and deliver real impact in every initiative.</p>
 </h3>
 <h1></h1>
 
